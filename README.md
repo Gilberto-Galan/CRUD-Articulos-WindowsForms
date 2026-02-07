@@ -30,7 +30,7 @@ Si necesitas instalarlos desde NuGet (ejemplos):
 
 ## Clonar e instalar el repositorio (pasos)
 1. Clonar:
-   - `git clone https://github.com/<tu-usuario>/ProcesoCRUD.Presentacion.git`
+   - `git clone https://github.com/Gilberto-Galan/CRUD-Articulos-WindowsForms.git`
 2. Abrir la solución en Visual Studio:
    - `Archivo → Abrir → Proyecto/Solución` y seleccionar `.sln`.
 3. Restaurar paquetes NuGet:

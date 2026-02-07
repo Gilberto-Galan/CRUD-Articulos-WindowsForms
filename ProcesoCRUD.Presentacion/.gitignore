@@ -1,0 +1,56 @@
+﻿# -------------------------------
+# Archivos y carpetas de Visual Studio
+# -------------------------------
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+*.userprefs
+
+# Carpetas de build
+bin/
+obj/
+Debug/
+Release/
+x64/
+x86/
+
+# -------------------------------
+# Archivos temporales
+# -------------------------------
+*.tmp
+*.log
+*.bak
+
+# -------------------------------
+# Paquetes NuGet
+# -------------------------------
+**/packages/
+*.nupkg
+.nuget/
+
+# -------------------------------
+# Bases de datos locales
+# -------------------------------
+*.mdb
+*.accdb
+*.mdf
+*.ldf
+
+# -------------------------------
+# Archivos generados por el sistema o IDE
+# -------------------------------
+Thumbs.db
+Desktop.ini
+
+# -------------------------------
+# Archivos de Reporting Services
+# -------------------------------
+# (generalmente generados por el Report Viewer)
+*.rdl.data
+*.rdlc.data
+*.rdl.layout
+*.rdlc.layout
+*.rdl.designer.cs
+*.rdlc.designer.cs
